@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b9c81c0-9b54-49b6-a0b7-a126ef570c21" name="Changes" comment="first commit">
+    <list default="true" id="7b9c81c0-9b54-49b6-a0b7-a126ef570c21" name="Changes" comment="creat edge.java/ foenetwork.java / fordfulkerson.java and network_4.txt files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/benchmarks/network_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/benchmarks/network_1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/benchmarks/network_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/benchmarks/network_2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/benchmarks/network_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/benchmarks/network_3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w2052233/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/w2052233/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w2052233/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +51,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "test",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -81,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745595671689</updated>
-      <workItem from="1745595672764" duration="1055000" />
+      <workItem from="1745595672764" duration="3105000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -107,7 +106,23 @@
       <option name="project" value="LOCAL" />
       <updated>1745596066953</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2nd commit">
+      <option name="closed" value="true" />
+      <created>1745597001500</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745597001500</updated>
+    </task>
+    <task id="LOCAL-00005" summary="creat edge.java/ foenetwork.java / fordfulkerson.java and network_4.txt files">
+      <option name="closed" value="true" />
+      <created>1745597107848</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1745597107848</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +130,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="2nd commit" />
+    <MESSAGE value="creat edge.java/ foenetwork.java / fordfulkerson.java and network_4.txt files" />
+    <option name="LAST_COMMIT_MESSAGE" value="creat edge.java/ foenetwork.java / fordfulkerson.java and network_4.txt files" />
   </component>
 </project>
