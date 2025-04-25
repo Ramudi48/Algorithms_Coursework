@@ -1,8 +1,3 @@
-📄 network_3.txt
-✅ Used in your current example; moderate complexity
-
-Copy
-Edit
 6
 0 1 10
 0 2 10
@@ -13,4 +8,3 @@ Edit
 3 5 10
 4 3 6
 4 5 10
-Expected max flow: 19
