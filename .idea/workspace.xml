@@ -1,15 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b9c81c0-9b54-49b6-a0b7-a126ef570c21" name="Changes" comment="first commit" />
+    <list default="true" id="7b9c81c0-9b54-49b6-a0b7-a126ef570c21" name="Changes" comment="creat edge.java/ foenetwork.java / fordfulkerson.java and network_4.txt files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/w2052233/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w2052233/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Ramudi48"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Ramudi48/Algorithms_Coursework.git",
@@ -27,8 +51,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "test",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -54,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745595671689</updated>
-      <workItem from="1745595672764" duration="341000" />
+      <workItem from="1745595672764" duration="3660000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -72,7 +98,47 @@
       <option name="project" value="LOCAL" />
       <updated>1745596007005</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1745596066953</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745596066953</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2nd commit">
+      <option name="closed" value="true" />
+      <created>1745597001500</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745597001500</updated>
+    </task>
+    <task id="LOCAL-00005" summary="creat edge.java/ foenetwork.java / fordfulkerson.java and network_4.txt files">
+      <option name="closed" value="true" />
+      <created>1745597107848</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1745597107848</updated>
+    </task>
+    <task id="LOCAL-00006" summary="creat edge.java/ foenetwork.java / fordfulkerson.java and network_4.txt files">
+      <option name="closed" value="true" />
+      <created>1745600185773</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1745600185773</updated>
+    </task>
+    <task id="LOCAL-00007" summary="creat edge.java/ foenetwork.java / fordfulkerson.java and network_4.txt files">
+      <option name="closed" value="true" />
+      <created>1745600203891</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1745600203891</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,6 +146,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="2nd commit" />
+    <MESSAGE value="creat edge.java/ foenetwork.java / fordfulkerson.java and network_4.txt files" />
+    <option name="LAST_COMMIT_MESSAGE" value="creat edge.java/ foenetwork.java / fordfulkerson.java and network_4.txt files" />
   </component>
 </project>
