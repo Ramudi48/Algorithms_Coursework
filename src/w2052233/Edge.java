@@ -14,7 +14,7 @@ public class Edge {
         this.from = from;
         this.to = to;
         this.capacity = capacity;
-        this.flow = 0;
+        this.flow = 1;
     }
 
     @Override
