@@ -11,7 +11,7 @@ import java.io.*;
 public class Main {
     public static void main(String[] args) {
         // Read the network from a file
-        String filename = "benchmarks/network_3.txt"; // Example filename
+        String filename = "benchmarks/network_5.txt"; // Example filename
         FlowNetwork network = readNetworkFromFile(filename);
 
         // Create the Ford-Fulkerson algorithm object
